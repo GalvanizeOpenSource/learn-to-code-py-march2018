@@ -4,7 +4,7 @@
 
 Welcome to Gavanize in Boulder! And thank you for coming to our event.
 
-Tonight, we will do some basic data analysis of NPR article data. By doing this you will see how to use some important technologies in the Python data analysis ecosystem.
+Tonight, we will do some basic data analysis of the measurements of irises. One day, a long time ago, some dedicated guy took measurements of a bunch of iris petals and sepals, and classifid the irises into their varieties based on those measurements. We will train the computer to detect those different varieties. See [https://en.wikipedia.org/wiki/Iris_flower_data_set](https://en.wikipedia.org/wiki/Iris_flower_data_set). By doing this you will see how to use some important technologies in the Python data analysis ecosystem.
 
 We will use the following tools:
 
